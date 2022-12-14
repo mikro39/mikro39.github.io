@@ -1,4 +1,4 @@
-baseurl = "http://www.mikeromero.us"
+baseurl = "https://www.mikeromero.us"
 title = "Mike Romero's Site"
 languageCode = "en-us"
 paginate = "10" # Number of elements per page in pagination
