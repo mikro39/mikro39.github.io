@@ -29,3 +29,7 @@ Link to the theme:
 [binario theme](https://themes.gohugo.io/themes/binario/)
 
 Link to Markdown [cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+
+## Testing / Why Hugo
+
+You can run Hugo with the command `hugo server`
