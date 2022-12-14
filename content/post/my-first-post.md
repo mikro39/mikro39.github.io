@@ -2,6 +2,8 @@
 title: "My First Post"
 date: 2022-12-13T19:19:35-07:00
 draft: false
+tags: ["first"]
+featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 ---
 
 ## Introduction

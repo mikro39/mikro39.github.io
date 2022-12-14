@@ -2,17 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://mikeromero.us/</loc>
+    <loc>https://www.mikeromero.us/tags/first/</loc>
     <lastmod>2022-12-13T19:19:35-07:00</lastmod>
   </url><url>
-    <loc>http://mikeromero.us/post/my-first-post/</loc>
+    <loc>https://www.mikeromero.us/</loc>
     <lastmod>2022-12-13T19:19:35-07:00</lastmod>
   </url><url>
-    <loc>http://mikeromero.us/post/</loc>
+    <loc>https://www.mikeromero.us/post/my-first-post/</loc>
     <lastmod>2022-12-13T19:19:35-07:00</lastmod>
   </url><url>
-    <loc>http://mikeromero.us/categories/</loc>
+    <loc>https://www.mikeromero.us/post/</loc>
+    <lastmod>2022-12-13T19:19:35-07:00</lastmod>
   </url><url>
-    <loc>http://mikeromero.us/tags/</loc>
+    <loc>https://www.mikeromero.us/tags/</loc>
+    <lastmod>2022-12-13T19:19:35-07:00</lastmod>
+  </url><url>
+    <loc>https://www.mikeromero.us/categories/</loc>
   </url>
 </urlset>
