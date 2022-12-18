@@ -1,5 +1,5 @@
 ---
-title: "12 3 2022 Changing Themes"
+title: "Changing Themes"
 date: 2022-12-13T23:37:15-07:00
 draft: false
 tags: ["Blog","Work-Log"]

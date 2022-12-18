@@ -7,11 +7,11 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
   name = "Mike Romero"
-  bio = "SRE, Mini Farmer, Adventurer"
+  bio = "SRE, Photographer, Mini Farmer, Adventurer"
   avatar = "img/avatar.png"
 
 [Params]
-  description = "Responsive card-based & code-light Hugo theme" # Site Description. Used in meta description
+  description = "Welcome to Mike Romero's blog, Resume, and CV." # Site Description. Used in meta description
   copyright = "Michael Romero" # Copyright holder, otherwise will use .Site.Title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
