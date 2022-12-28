@@ -74,4 +74,6 @@ So theory aside, what does this practically look like? Should SREs just toss thi
 
 NO!
 
-SREs should set aside time to define team ownership, and then work with the team that owns the product to define the SLIs. The SRE can and should assist.
+SREs should set aside time to define team ownership, and then work with the team that owns the product to define the SLIs. The SRE can and should assist, and should consult.
+
+SREs are responsible for keeping the big picture of the application anf product in mind in all that they do.
